@@ -9,7 +9,7 @@ Brief Set Up guide: https://pico.me365.xyz/steps
 
   ### (Step 2 - different) Code with Pico W
 
-  - Use `dev.uf2` file / or you can use [Latest .uf2](https://pico.me365.xyz/) and override on top!
+  - Use [Latest .uf2](https://pico.me365.xyz/) and override on top!
   - Download IDE to access Pico, e.g. [Thonny IDE](https://thonny.org/)
   - Connect to your Pico W
   - Add `src` files to your Pico W, this handles each received command
